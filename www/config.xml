@@ -2,21 +2,21 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.nomdelprograma"
-        versionCode = "00" 
-        version     = "0.0.00" >
+        id          = "cat.numancia.Uvuvuevuevueeñetuevuevueuvimuvimosas"
+        versionCode = "01" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>nom del programa</name>
+    <name>Agenda viatge</name>
 
    <description>
-       Descripció , nom i grup . Curs Acadèmic.
+       Una agenda Italiana per un català , Luis Sánchez Marín . 4D.
     </description>
 
-    <author href="https://numancia.cat/intranet" email="elteucorrreu@iesnumancia.cat">
+    <author href="https://numancia.cat/intranet" email="lsanchez78@iesnumancia.cat">
        nom de l'autor
     </author>
 
